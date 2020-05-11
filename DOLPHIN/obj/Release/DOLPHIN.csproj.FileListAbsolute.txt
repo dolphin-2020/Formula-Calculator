@@ -1,0 +1,9 @@
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\bin\Release\DOLPHIN.exe.config
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\bin\Release\DOLPHIN.exe
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\bin\Release\DOLPHIN.pdb
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\obj\Release\DOLPHIN.csprojAssemblyReference.cache
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\obj\Release\DOLPHIN.Form1.resources
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\obj\Release\DOLPHIN.Properties.Resources.resources
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\obj\Release\DOLPHIN.csproj.GenerateResource.cache
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\obj\Release\DOLPHIN.exe
+C:\Users\Dolphin\source\repos\DOLPHIN\DOLPHIN\obj\Release\DOLPHIN.pdb
